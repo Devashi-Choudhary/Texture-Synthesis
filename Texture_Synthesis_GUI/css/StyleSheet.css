@@ -1,0 +1,85 @@
+#MainFrame {
+	background-image: url(":css/background.png");
+	background-repeat: no-repeat, repeat;
+}
+
+QToolTip {
+    color:black;
+    font-size: 18px;
+	font-weight:Normal;
+}
+
+QComboBox {
+    color:#000000;
+    font-size: 22px;
+	font-weight:normal;
+}
+
+QLabel {
+	color:#000000;
+	font-size: 22px;
+	font-weight:normal;
+}
+
+QPushButton {background-color:#019ad2;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:10px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:24px;
+	font-weight:bold;
+	padding:6px 6px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+	width: 50px;
+	height: 30px;}
+
+QPushButton:hover{
+	background-color:#33bdef;
+}
+
+QPushButton:active {
+	position:relative;
+	top:1px;
+}
+
+#MainGuiButtons {background-color:#019ad2;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:10px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:24px;
+	font-weight:bold;
+	padding:6px 6px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+	width: 250px;
+	height: 64px;}
+
+#MainGuiButtons:hover{
+	background-color:#33bdef;
+}
+
+#MainGuiButtons:active {
+	position:relative;
+	top:1px;
+}
+
+#TransparentButtons {
+	cursor:pointer;
+	border:0px;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:24px;
+	font-weight:bold;
+	padding:6px 6px;
+	width: 68px;
+	height: 68px;}

@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/css">
+	<file alias="StyleSheet.css">css/StyleSheet.css</file>
+	<file alias="background.png">css/background.png</file>
+</qresource>
+<qresource prefix="/css/Icons">
+	<file alias="logo.png">css/Icons/logo.png</file>
+	<file alias="home.png">css/Icons/home.png</file>
+	<file alias="imageNeedUpload.png">css/Icons/imageNeedUpload.png</file>
+</qresource>
+</RCC>
