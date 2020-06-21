@@ -9,7 +9,7 @@ based on the work of [Alexei Efros and William Freeman](https://github.com/lschl
 2. skimage
 3. PIL
 4. argparse
-5. pyqt5 (For GUI Implementation
+5. pyqt5 (For GUI Implementation)
 
 # How to execute the code :
 #### Using Command Line :
