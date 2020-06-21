@@ -21,7 +21,7 @@ based on the work of [Alexei Efros and William Freeman](https://github.com/lschl
 
 For example :
 
-> `python texture_synthesis.py --image_path texture6.jpg --block_size 60 --num_block 8 --mode Best`
+> `python texture_synthesis.py --image_path data/input1.jpg --block_size 60 --num_block 8 --mode Best`
 
 The default values of block_size is 50, num_block is 6 and mode is "Cut".
 
