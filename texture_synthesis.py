@@ -1,4 +1,3 @@
-#Reference : https://github.com/axu2/image-quilting
 
 import numpy as np
 import math
