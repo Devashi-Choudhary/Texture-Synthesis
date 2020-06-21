@@ -18,7 +18,9 @@ based on the work of [Alexei Efros and William Freeman](https://github.com/lschl
 3. Install all dependencies mentioned above.
 4. You can open the folder and run texture_synthesis.py on command prompt.
 > `python texture_synthesis.py --image_path <image_path> --block_size <int_value> --num_block <int_value> --mode <Random/Best/Cut>`
-##### For example :
+
+For example :
+
 > `python texture_synthesis.py --image_path texture6.jpg --block_size 60 --num_block 8 --mode Best`
 
 The default values of block_size is 50, num_block is 6 and mode is "Cut".
