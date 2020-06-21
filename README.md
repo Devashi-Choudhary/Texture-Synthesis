@@ -31,4 +31,4 @@ The default values of block_size is 50, num_block is 6 and mode is "Cut".
 # Results
 ![Outpu1](https://github.com/Devashi-Choudhary/Texture-Synthesis/blob/master/Results/output1.jpg)
 ![Outpu2](https://github.com/Devashi-Choudhary/Texture-Synthesis/blob/master/Results/output2.jpg)
-**Note :** For more details of texture synthesis using patch based method, go through
+**Note :** For more details of texture synthesis using patch based method, go through [Texture Synthesis : Generating arbitrarily large textures from image patches.](https://medium.com/@Devashi_Choudhary/texture-synthesis-generating-arbitrarily-large-textures-from-image-patches-32dd49e2d637)
