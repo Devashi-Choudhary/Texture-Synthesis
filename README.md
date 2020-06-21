@@ -20,12 +20,14 @@ based on the work of [Alexei Efros and William Freeman](https://github.com/lschl
 ##### For example :
 > `python texture_synthesis.py --image_path texture6.jpg --block_size 60 --num_block 8 --mode Best`
 
-The default values of block_size is 50, num_block is 6 and mode is Cut.
+The default values of block_size is 50, num_block is 6 and mode is "Cut".
 #### Using GUI
 1. Go to Texture_Synthesis_GUI folder, and run
 > `Texture_Synthesis_GUI.py`
 2. The above file will open GUI then you can run it.
 
+###### The default values of block_size is 50, num_block is 6 and mode is "Cut" and can not be changed. 
 # Results
-
+![Outpu1](https://github.com/Devashi-Choudhary/Texture-Synthesis/blob/master/Results/output1.jpg)
+![Outpu2](https://github.com/Devashi-Choudhary/Texture-Synthesis/blob/master/Results/output2.jpg)
 **Note :** For more details of texture synthesis using patch based method, go through
