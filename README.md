@@ -2,7 +2,7 @@
 Texture synthesis is a technique of generating new images by stitching together patches of existing images. The purpose of study is to understand
 patched based method for generating arbitrarily large textures from small real-world samples. The study is implementation of the paper 
 [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting.html),
-based on the work of Alexei Efros and William Freeman.
+based on the work of [Alexei Efros and William Freeman](https://github.com/lschlessinger1/image-quilting). 
 
 # Dependencies
 1. numpy
@@ -11,6 +11,7 @@ based on the work of Alexei Efros and William Freeman.
 4. argparse
 
 # How to execute the code :
+#### Using Command Line :
 1. You will first have to download the repository and then extract the contents into a folder.
 2. Make sure you have the correct version of Python installed on your machine. This code runs on Python 3.6 above.
 3. Install all dependencies mentioned above.
@@ -20,5 +21,11 @@ based on the work of Alexei Efros and William Freeman.
 > `python texture_synthesis.py --image_path texture6.jpg --block_size 60 --num_block 8 --mode Best`
 
 The default values of block_size is 50, num_block is 6 and mode is Cut.
+#### Using GUI
+1. Go to Texture_Synthesis_GUI folder, and run
+> `Texture_Synthesis_GUI.py`
+2. The above file will open GUI then you can run it.
+
+# Results
 
 **Note :** For more details of texture synthesis using patch based method, go through
