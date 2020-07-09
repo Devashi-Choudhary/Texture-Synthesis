@@ -35,3 +35,8 @@ The default values of block_size is 50, num_block is 6 and mode is "Cut".
 ![Outpu1](https://github.com/Devashi-Choudhary/Texture-Synthesis/blob/master/Results/output1.jpg)
 ![Outpu2](https://github.com/Devashi-Choudhary/Texture-Synthesis/blob/master/Results/output2.jpg)
 **Note :** For more details of texture synthesis using patch based method, go through [Texture Synthesis : Generating arbitrarily large textures from image patches.](https://medium.com/@Devashi_Choudhary/texture-synthesis-generating-arbitrarily-large-textures-from-image-patches-32dd49e2d637)
+
+# References
+1. [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf)
+2. [Image-Quilting-for-Texture-Synthesis](https://github.com/rohitrango/Image-Quilting-for-Texture-Synthesis)
+3. [GUI](https://github.com/Baticsute/Panorama-Simple-App-Demo#using-opencv-library--pyqt5-for-ui--imutils--resize-image) and [Style](https://github.com/mayste/StyleTransfer)
